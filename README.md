@@ -24,7 +24,7 @@ tablayout和viewpager结合使用的示例以及如何取消viewpager的预加�
     }
     
   ```
-  >另外还需要对viewpager进行限制：viewpager.setOffscreenPageLimit(1);
+  >另外还需要对viewpager进行限制：`viewpager.setOffscreenPageLimit(1);`
 
 ###使用RxAndroid替代AsyncTask
   ```java
@@ -69,7 +69,8 @@ tablayout和viewpager结合使用的示例以及如何取消viewpager的预加�
   
 ###Thanks to ：
 
-    CatLoadingView (https://github.com/Rogero0o/CatLoadingView)  效果很漂亮
-    Rxandroid
-    RxLifeTime
-    
+    ```java
+      CatLoadingView (https://github.com/Rogero0o/CatLoadingView)  效果很漂亮
+      Rxandroid
+      RxLifeCycle
+    ```
