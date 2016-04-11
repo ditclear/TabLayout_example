@@ -69,8 +69,6 @@ tablayout和viewpager结合使用的示例以及如何取消viewpager的预加�
   
 ###Thanks to ：
 
-    ```java
-      CatLoadingView (https://github.com/Rogero0o/CatLoadingView)  效果很漂亮
-      Rxandroid
-      RxLifeCycle
-    ```
+    CatLoadingView (https://github.com/Rogero0o/CatLoadingView)  效果很漂亮
+    Rxandroid
+    RxLifeCycle
